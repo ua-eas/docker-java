@@ -1,7 +1,7 @@
 # OpenJDK Java 7 JRE 
 
 # Pull base image.
-FROM ua-eas/docker-base
+FROM easksd/base
 
 # Install Java.
 RUN \
